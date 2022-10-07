@@ -1,0 +1,6 @@
+word_list:
+  - "learned"
+  - "not_learned"
+  - "all_word"
+all_word: "all_word"
+word_size: 4

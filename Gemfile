@@ -8,11 +8,13 @@ gem "bcrypt"
 gem "faker", "2.1.2"
 gem "will_paginate","3.1.8"
 gem "bootstrap-will_paginate", "1.0.0"
+gem "config"
 gem "puma", "~> 5.0"
 gem "sass-rails", ">= 6"
 gem "webpacker", "~> 5.0"
 gem "turbolinks", "~> 5"
 gem "jbuilder", "~> 2.7"
+gem "jquery-rails", "~> 4.3", ">= 4.3.5"
 gem "bootsnap", ">= 1.4.4", require: false
 
 group :development, :test do
